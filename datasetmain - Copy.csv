@@ -1,4 +1,4 @@
-Age,Yr from 1900,Nodes,Critcal Node,Survival Status
+Age,Yr from 1900,Nodes,Critcal Node,Class
 30,64,1,1,1
 30,62,3,2,1
 30,65,0,0,1
